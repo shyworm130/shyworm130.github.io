@@ -1,0 +1,342 @@
+[
+  {
+    "name": "User Interfaces and User Experience",
+    "professor": "Jeff Huang",
+    "code": "CSCI1300",
+    "dept": "CSCI",
+    "number": 1300,
+    "prof_rating": 4.58,
+    "course_rating": 3.71,
+    "avg_hours": 5.43
+  },
+  {
+    "name": "Computing Foundations: Data",
+    "professor": "Kathi Fisler",
+    "code": "CSCI0111",
+    "dept": "CSCI",
+    "number": 111,
+    "prof_rating": 4.71,
+    "course_rating": 3.89,
+    "avg_hours": 6.76
+  },
+  {
+    "name": "Introduction to Software Engineering",
+    "professor": "Tim Nelson",
+    "code": "CSCI0320",
+    "dept": "CSCI",
+    "number": 320,
+    "prof_rating": 4.23,
+    "course_rating": 3.08,
+    "avg_hours": 12.06
+  },
+  {
+    "name": "Artificial Intelligence",
+    "professor": "George Konidaris",
+    "code": "CSCI1410",
+    "dept": "CSCI",
+    "number": 1410,
+    "prof_rating": 4.27,
+    "course_rating": 3.5,
+    "avg_hours": 8.07
+  },
+  {
+    "name": "Human Cognition",
+    "professor": "Kathryn Spoehr",
+    "code": "CLPS0200",
+    "dept": "CLPS",
+    "number": 200,
+    "prof_rating": 3.8,
+    "course_rating": 3.09,
+    "avg_hours": 2.69
+  },
+  {
+    "name": "Affective Neuroscience",
+    "professor": "Amitai Shenhav",
+    "code": "CLPS1495",
+    "dept": "CLPS",
+    "number": 1495,
+    "prof_rating": 4.96,
+    "course_rating": 4.35,
+    "avg_hours": 3
+  },
+  {
+    "name": "Visualizing Information",
+    "professor": "Leslie Welch",
+    "code": "CLPS1580C",
+    "dept": "CLPS",
+    "number": 1580,
+    "prof_rating": 5,
+    "course_rating": 4.44,
+    "avg_hours": 3.25
+  },
+  {
+    "name": "At China's Edges",
+    "professor": "Rebecca Nedostup",
+    "code": "HIST1120",
+    "dept": "HIST",
+    "number": 1120,
+    "prof_rating": 4.46,
+    "course_rating": 4.26,
+    "avg_hours": 4.71
+  },
+  {
+    "name": "American Slavery",
+    "professor": "Emily Owens",
+    "code": "HIST1515",
+    "dept": "HIST",
+    "number": 1515,
+    "prof_rating": 4.72,
+    "course_rating": 4.38,
+    "avg_hours": 4.09
+  },
+  {
+    "name": "Interactive Computer Graphics",
+    "professor": "Daniel Ritchie",
+    "code": "CSCI2240",
+    "dept": "CSCI",
+    "number": 2240,
+    "prof_rating": 4.91,
+    "course_rating": 4.37,
+    "avg_hours": 16
+  },
+  {
+    "name": "Operating Systems",
+    "professor": "Tom Doeppner",
+    "code": "CSCI2670",
+    "dept": "CSCI",
+    "number": 2670,
+    "prof_rating": 4.46,
+    "course_rating": 4.33,
+    "avg_hours": 13.57
+  },
+  {
+    "name": "Operating Systems",
+    "professor": "Tom Doeppner",
+    "code": "CSCI1670",
+    "dept": "CSCI",
+    "number": 1670,
+    "prof_rating": 4.61,
+    "course_rating": 4.18,
+    "avg_hours": 11.77
+  },
+  {
+    "name": "Introduction to Creative Nonfiction",
+    "professor": "Michael Stewart",
+    "code": "ENGL0930",
+    "dept": "ENGL",
+    "number": 930,
+    "prof_rating": 4.61,
+    "course_rating": 3.75,
+    "avg_hours": 3.33
+  },
+  {
+    "name": "Lifewriting",
+    "professor": "Carol DeBoer-Landworthy",
+    "code": "ENGL1180E",
+    "dept": "ENGL",
+    "number": 1180,
+    "prof_rating": 4.17,
+    "course_rating": 3.67,
+    "avg_hours": 6.6
+  },
+  {
+    "name": "Financial Accounting",
+    "professor": "Frank Sciuto",
+    "code": "ECON0710",
+    "dept": "ECON",
+    "number": 710,
+    "prof_rating": 3.68,
+    "course_rating": 3.6,
+    "avg_hours": 2.63
+  },
+  {
+    "name": "Industrial Organization",
+    "professor": "Manuel Lancastre",
+    "code": "ECON1420",
+    "dept": "ECON",
+    "number": 1420,
+    "prof_rating": 4.63,
+    "course_rating": 4.18,
+    "avg_hours": 4.17
+  },
+  {
+    "name": "Corporate Finance",
+    "professor": "Bradford Gibbs",
+    "code": "ECON1720",
+    "dept": "ECON",
+    "number": 1720,
+    "prof_rating": 4.78,
+    "course_rating": 4.15,
+    "avg_hours": 4.13
+  },
+  {
+    "name": "Econometric Methods",
+    "professor": "Toru Kitagawa",
+    "code": "ECON2040",
+    "dept": "ECON",
+    "number": 2040,
+    "prof_rating": 4.5,
+    "course_rating": 4.03,
+    "avg_hours": 8
+  },
+  {
+    "name": "Introduction to Acting and Directing",
+    "professor": "Constance Crawford",
+    "code": "TAPS0030",
+    "dept": "TAPS",
+    "number": 30,
+    "prof_rating": 4.83,
+    "course_rating": 4.32,
+    "avg_hours": 2.17
+  },
+  {
+    "name": "Introduction to Technical Theatre and Production",
+    "professor": "Alexander Haynes",
+    "code": "TAPS0250",
+    "dept": "TAPS",
+    "number": 250,
+    "prof_rating": 4.87,
+    "course_rating": 4.15,
+    "avg_hours": 1.2
+  },
+  {
+    "name": "Beginning Modern Dance",
+    "professor": "Michelle Bach-Coulibaly",
+    "code": "TAPS0310",
+    "dept": "TAPS",
+    "number": 310,
+    "prof_rating": 3.73,
+    "course_rating": 3.92,
+    "avg_hours": 2.5
+  },
+  {
+    "name": "Stage Management",
+    "professor": "Barbara Reo",
+    "code": "TAPS1100",
+    "dept": "TAPS",
+    "number": 1100,
+    "prof_rating": 4.83,
+    "course_rating": 4.52,
+    "avg_hours": 2.67
+  },
+  {
+    "name": "Voice Over for the Actor",
+    "professor": "Sarah dAngelo",
+    "code": "TAPS1280U",
+    "dept": "TAPS",
+    "number": 1280,
+    "prof_rating": 4.89,
+    "course_rating": 4.33,
+    "avg_hours": 2.6
+  },
+  {
+    "name": "Introduction to Engineering: Design",
+    "professor": "Michael Donohue",
+    "code": "ENGN0032",
+    "dept": "ENGN",
+    "number": 32,
+    "prof_rating": 4.52,
+    "course_rating": 3.82,
+    "avg_hours": 5.28
+  },
+  {
+    "name": "Mechanics of Solids and Structures",
+    "professor": "David Hennan",
+    "code": "ENGN0310",
+    "dept": "ENGN",
+    "number": 310,
+    "prof_rating": 4.82,
+    "course_rating": 4.39,
+    "avg_hours": 7.13
+  },
+  {
+    "name": "Electrical Circuits and Signals",
+    "professor": "Farrah Laiwalla",
+    "code": "ENGN0520",
+    "dept": "ENGN",
+    "number": 520,
+    "prof_rating": 4.39,
+    "course_rating": 4,
+    "avg_hours": 9.33
+  },
+  {
+    "name": "Chemical Process Design",
+    "professor": "Marek Wojtowicz",
+    "code": "ENGN1140",
+    "dept": "ENGN",
+    "number": 1140,
+    "prof_rating": 4.43,
+    "course_rating": 3.81,
+    "avg_hours": 4.78
+  },
+  {
+    "name": "Neuroengineering",
+    "professor": "Arto Nurmikko",
+    "code": "ENGN1220",
+    "dept": "ENGN",
+    "number": 1220,
+    "prof_rating": 4.21,
+    "course_rating": 3.34,
+    "avg_hours": 4
+  },
+  {
+    "name": "Structural Analysis",
+    "professor": "Yuri Bazilevs",
+    "code": "ENGN1300",
+    "dept": "ENGN",
+    "number": 1300,
+    "prof_rating": 4.4,
+    "course_rating": 3.97,
+    "avg_hours": 5.44
+  },
+  {
+    "name": "Optics",
+    "professor": "Daniel Mittleman",
+    "code": "ENGN1560",
+    "dept": "ENGN",
+    "number": 1560,
+    "prof_rating": 4.67,
+    "course_rating": 4.5,
+    "avg_hours": 5.25
+  },
+  {
+    "name": "Communication Systems",
+    "professor": "Christopher Rose",
+    "code": "ENGN1580",
+    "dept": "ENGN",
+    "number": 1580,
+    "prof_rating": 5,
+    "course_rating": 4.65,
+    "avg_hours": 1.67
+  },
+  {
+    "name": "Analysis and Design of Electronic Circuits",
+    "professor": "David Durfee",
+    "code": "ENGN1620",
+    "dept": "ENGN",
+    "number": 1620,
+    "prof_rating": 3.83,
+    "course_rating": 3.53,
+    "avg_hours": 10
+  },
+  {
+    "name": "Design of Space Systems",
+    "professor": "Richard Fleeter",
+    "code": "ENGN1760",
+    "dept": "ENGN",
+    "number": 1760,
+    "prof_rating": 3.69,
+    "course_rating": 2.92,
+    "avg_hours": 4.33
+  },
+  {
+    "name": "Implantable Devices",
+    "professor": "David Borton",
+    "code": "ENGN2912R",
+    "dept": "ENGN",
+    "number": 2912,
+    "prof_rating": 3.78,
+    "course_rating": 3.79,
+    "avg_hours": 6
+  }
+]
